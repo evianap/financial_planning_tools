@@ -1,5 +1,4 @@
-# financial_planning_tools
-Leveraging Monte Carlo method to assess future value of a portfolio with different risk compositions to compare probable balances at 10 and 30 years from now
+# financial_planning_tools. Leveraging Monte Carlo method to assess future value of a portfolio with different risk compositions to compare probable balances at 10 and 30 years from now
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- [![License][license-shield]][license-url] -->
 
@@ -39,7 +38,7 @@ Leveraging Monte Carlo method to assess future value of a portfolio with differe
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p>This project is designed to assess future balance of a portfolio with different risk compositions to compare probable balances at 10 and 30 years from now<p/>
+<p>This project is designed to first assess if an emergency fund has sufficient asset value. Second, it evaluates future balance of a portfolio with different risk compositions to compare probable balances at 10 and 30 years from now. All is done by connecting with Alpaca API to access market closing data for tickers and crypto.<p/>
 
 
 <p align="center"><img src="https://github.com/evianap/financial_planning_tools/blob/main/Images/MCSimulation1.png" alt="MC1"><p/>
@@ -97,5 +96,4 @@ Project Link: [https://github.com/evianap/whale_analysis](https://github.com/evi
 <!-- [license-shield]: 
 [license-url]:  -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/enriqueviana/# financial_planning_tools
-Financial planner for emergencies and for retirement
+[linkedin-url]: https://www.linkedin.com/in/enriqueviana/#
